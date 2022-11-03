@@ -79,10 +79,21 @@ WSGI_APPLICATION = 'jobapp.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.1/ref/settings/#databases
 
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.sqlite3',
+#         'NAME': BASE_DIR / 'db.sqlite3',
+#     }
+# }
+
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'd9rctehbo2oh93',
+        'USER': 'xjpizitqmzimby',
+        'PASSWORD': 'c42a10156d74b63e6e63f4462d58bc47e0cd26ae07886486eb12c4c39aadb1b7',
+        'HOST': 'ec2-3-213-66-35.compute-1.amazonaws.com',
+        'PORT': '5432',
     }
 }
 
