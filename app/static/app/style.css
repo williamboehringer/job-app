@@ -359,6 +359,7 @@ form {
   border-radius: 10px;
   margin: 5em auto;
   box-shadow: var(--shadow);
+  
 }
 
 .errorlist {
@@ -392,6 +393,42 @@ textarea#id_description {
   margin-bottom: 2em
   }
 
+form.logout-link {
+  margin: 0px;
+  width: auto;
+  background: none;
+  padding: 0px;
+  text-align: center;
+  box-shadow: none;
+  text-decoration: none;
+}
+
+button.logout {
+  background: none;
+  color: white;
+  margin: 0px;
+  text-decoration: none;
+  font-size: 100%;
+  font-family: "Poppins", sans-serif;
+}
+
+li{
+  list-style-type: none;
+}
 
 
-
+button.submit-button {
+    border: none;
+    outline: none;
+    height: 45px;
+    background: #4d62d8;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 500;
+    color: white;
+    padding: 0 3em;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
