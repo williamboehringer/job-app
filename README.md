@@ -3,6 +3,13 @@
 ### Developed by William Boehringer
 <br>
 
+## 🧪 Technologies used in this project
+
+- [Python](https://www.python.org/)
+- [Django](https://www.djangoproject.com/)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
  # ❓ What it does?
 
 ### It is a simple site to share job vacancies that allows you to signup, login, logout and publish your own job vacancy.
