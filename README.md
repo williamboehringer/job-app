@@ -5,19 +5,24 @@
 
  # ❓ What it does?
 
-### A simple site to share job vaccancies that allows you to signup, login, logout and publish your own job vaccancy.
+### A simple site to share job vacancies that allows you to signup, login, logout and publish your own job vacancy.
 
 ### Here are some screenshots of the website:
 
-![index-screen](https://user-images.githubusercontent.com/104523477/214977139-73e32d2f-85c4-46e7-b339-c30b8c052776.jpg)
 ### Index screen
-<br>
+![index-screen](https://user-images.githubusercontent.com/104523477/214977139-73e32d2f-85c4-46e7-b339-c30b8c052776.jpg)
 
+### Sign up form
 ![signup](https://user-images.githubusercontent.com/104523477/214977392-44168704-175e-4a86-a358-fa21a1f1174b.png)
-### Sign up screen
 
+### Login form
+![login-screen](https://user-images.githubusercontent.com/104523477/214977522-cb2024a7-1e96-4894-80f7-c36370ad3891.jpg)
 
+### Create vacancy form
+![create-vacancy-form](https://user-images.githubusercontent.com/104523477/214977567-6d6fa6c1-38d4-4380-864b-c01d3f5f068f.png)
 
+### Job detail screen
+![job-detail-screen](https://user-images.githubusercontent.com/104523477/214977867-0c7bee65-70c7-4c23-bc6e-48315600f3e5.jpg)
 
 
 <br>
