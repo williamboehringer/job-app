@@ -1,7 +1,6 @@
 # Job Vacancies Site
 
 ### Developed by William Boehringer
-<br>
 
 ## 🧪 Technologies used in this project
 
