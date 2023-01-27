@@ -5,7 +5,7 @@
 
  # ❓ What it does?
 
-### A simple site to share job vacancies that allows you to signup, login, logout and publish your own job vacancy.
+### It is a simple site to share job vacancies that allows you to signup, login, logout and publish your own job vacancy.
 
 ### Here are some screenshots of the website:
 
