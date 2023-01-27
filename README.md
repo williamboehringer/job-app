@@ -5,7 +5,11 @@
 
  # ❓ What it does?
 
-### A simple site that allows you to signup, login, logout and create job vacancies.
+### A simple site to share job vaccancies that allows you to signup, login, logout and publish your own job vaccancy.
+
+### Index screen
+![index-screen](https://user-images.githubusercontent.com/104523477/214977139-73e32d2f-85c4-46e7-b339-c30b8c052776.jpg)
+
 
 <br>
 
@@ -13,4 +17,4 @@
 
 ### * Install Python3, wich you can download trough the link https://www.python.org/downloads/.
 ### * Install in an python env the dependencies needed for the project that are listed in the 'requirements.txt' file.
-### * With the env activated, open a terminal where the manage.py file is located and run the command 'python manage.py runserver' and access the page trough the port localhost:8000/.
+### * With the venv activated, open a terminal where the manage.py file is located and run the command 'python manage.py runserver' and access the page trough the port localhost:8000/.
