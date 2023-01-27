@@ -9,8 +9,15 @@
 
 ### Here are some screenshots of the website:
 
-### Index screen
 ![index-screen](https://user-images.githubusercontent.com/104523477/214977139-73e32d2f-85c4-46e7-b339-c30b8c052776.jpg)
+### Index screen
+<br>
+
+![signup](https://user-images.githubusercontent.com/104523477/214977392-44168704-175e-4a86-a358-fa21a1f1174b.png)
+### Sign up screen
+
+
+
 
 
 <br>
