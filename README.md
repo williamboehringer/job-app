@@ -7,6 +7,8 @@
 
 ### A simple site to share job vaccancies that allows you to signup, login, logout and publish your own job vaccancy.
 
+### Here are some screenshots of the website:
+
 ### Index screen
 ![index-screen](https://user-images.githubusercontent.com/104523477/214977139-73e32d2f-85c4-46e7-b339-c30b8c052776.jpg)
 
