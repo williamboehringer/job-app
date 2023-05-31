@@ -10,7 +10,9 @@
 
  # ❓ What it does?
 
-### It is a simple site to share job vacancies that allows you to signup, login, logout and publish your own job vacancy.
+### It is a simple site to share job vacancies that allows you to signup, login, logout and publish your own job vacancy. Made through the course "Python Django 4 Masterclass | Build a Real World Project"
+
+### Link to the course: https://www.udemy.com/course/python-django-masterclass/
 
 ### Here are some screenshots of the website:
 
@@ -37,7 +39,3 @@
 ### * Install Python3, wich you can download trough the link https://www.python.org/downloads/.
 ### * Install in a python venv the dependencies needed for the project that are listed in the 'requirements.txt' file.
 ### * With the venv activated, open a terminal where the manage.py file is located and run the command 'python manage.py runserver' and access the page trough the port localhost:8000/.
-
-<br>
-
-## Developed by William Boehringer
